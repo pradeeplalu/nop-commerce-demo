@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="smoke"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.639">
+  <properties />
+  
+  
+            <testcase name="verifyThatFirstNameLastNameEmailPasswordAndConfirmPasswordFieldsAreMandatory" time="0.872" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="0.767" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+      
+</testsuite>
